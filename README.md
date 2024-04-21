@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Davies Juniour</h1>
-<h3 align="center">A passionate game developer, full stack web developer from Kenya</h3>
+
+<h3 align="center">Unity Game Developer, Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prymate25&label=Profile%20views&color=0e75b6&style=flat" alt="prymate25" /> </p>
 
 - 🔭 I’m currently working on [Unity FPS game for android](https://github.com/Prymate25/Unity-First-Person-Shooter-Game)
 
 - 👨‍💻 All of my projects are available at [https://prymate25.web.app/](https://prymate25.web.app/)
-
-- 💬 Ask me about **Unity, MERN Stack**
 
 - 📫 How to reach me **davyjuniour25@gmail.com**
 
