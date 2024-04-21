@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Unity FPS game for android](https://github.com/Prymate25/Unity-First-Person-Shooter-Game)
 
-- 👨‍💻 All of my projects are available at [https://prymate25.web.app/](https://prymate25.web.app/)
+<!--- 👨‍💻 All of my projects are available at [https://prymate25.web.app/](https://prymate25.web.app/)-->
 
 - 📫 How to reach me **davyjuniour25@gmail.com**
 
